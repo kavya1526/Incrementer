@@ -3,7 +3,7 @@
     <string name="hello_toast">Hello Toast</string>
     <string name="button1">Button</string>
     <string name="button2">Button</string>
-    <string name="count">Click on Me</string>
+    <string name="count">Click on Me to Increment</string>
     <string name="toast">Incrementer</string>
     <string name="count1">Count</string>
     <string name="_0">0</string>
